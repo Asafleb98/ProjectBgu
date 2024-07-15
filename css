@@ -1,0 +1,6 @@
+my_streamlit_app/
+├── main.py
+├── multipage.py
+└── pages/
+    ├── student.py
+    └── teacher.py
